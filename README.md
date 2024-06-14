@@ -1,4 +1,4 @@
-# This Python script implements a simple Snake game using the tkinter library for the graphical user interface.  
+## This Python script implements a simple Snake game using the tkinter library for the graphical user interface.  
 <b>FEATURES:</b>  
 <b>Snake Movement:</b>   Control the snake using arrow keys (Up, Down, Left, Right).  
 <b>Food Generation:</b>   Randomly spawns food for the snake to eat.  
